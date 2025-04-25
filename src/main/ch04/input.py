@@ -1,5 +1,3 @@
-from setuptools.build_meta import prepare_metadata_for_build_wheel
-
 a = int(input("a입력: "))
 b = int(input("b입력: "))
 
